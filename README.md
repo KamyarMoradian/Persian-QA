@@ -29,7 +29,7 @@ Designed approach consists of several key steps:
 
 ## Evaluation Metrics
 
-Used two primary methods to evaluate the performance of utilyzed models:
+Used two primary methods to evaluate the performance of utilized models:
 
 1. **SQuAD v2 Metric**: employed the squad_v2_metric to assess the models' performance. This metric provides a comprehensive evaluation of the models' accuracy, including exact match and F1 scores.
 
@@ -42,7 +42,7 @@ Used two primary methods to evaluate the performance of utilyzed models:
 3. Calculate cosine similarity between the encodings
 4. Aggregate similarity scores to assess overall performance
 
-This dual evaluation approach provides a comprehensive view of utilyzed models' capabilities, considering both exact match metrics and semantic similarity.
+This dual evaluation approach provides a comprehensive view of utilized models' capabilities, considering both exact match metrics and semantic similarity.
 
 ## Implementation Details
 
